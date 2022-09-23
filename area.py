@@ -1,0 +1,10 @@
+n1=int(input())
+n2=int(input())
+n3=int(input())
+n4=float(input())
+s=n1*n1
+r=n2*n3
+c=3.14*n4*n4
+print(s)
+print(r)
+print("%.2f"%c)
